@@ -1,1 +1,27 @@
+Name -BALSAL PRAVALLIKA
+LEARNING TRACK- DEVELOPER
+Email-balsalpravallika@gmail.com
+Trailhead profile-https://www.salesforce.com/trailblazer/pravallikabalsal
+Username(developer org)-balsalpravallika@gdcproject.com
+Contact-9345563805
 
+Name -MURAGAREDDY REVATHI
+LEARNING TRACK- DEVELOPER
+Email- muragareddyrevathi25@gmail.com
+Trailhead profile-https://www.salesforce.com/trailblazer/muragareddyrevathi
+Username(developer org)-muragareddyrevathi25@gdcproject.com
+Contact-6300847989
+
+Name -JANGAM SRIKANYA
+LEARNING TRACK- DEVELOPER
+Email- jangamsrikanyayadav@gmail.com
+Trailhead profile-https://www.salesforce.com/trailblazer/srikanyajangam
+Username(developer org)-jangamsrikanyayadav@gdcproject.com
+Contact-9014367692
+
+Name -NANDIBOYINI SUNITHA
+LEARNING TRACK- DEVELOPER
+Email- nandiboyinisunithayadavsunitha@gmail.com
+Trailhead profile-https://www.salesforce.com/trailblazer/sunithanandiboyinisunitha
+Username(developer org)-nandiboyinisunithayadavsunitha@gdcproject.com
+Contact-9347948994
